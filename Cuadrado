@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int main(){
+
+    int Num=3756;
+    int NumCuadrado;
+    printf("Ingresa un numero de 4 digitos: %d\n\n",Num);
+
+    NumCuadrado = Num * Num ;
+
+    printf("el numro aleatorio es :  %d\n\n",NumCuadrado);
+
+    }
