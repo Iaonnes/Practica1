@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int main(){
+
+    int Numero=6840;
+    int NumeroCuadrado;
+	
+
+	printf("El numero es: %d",Numero);
+       NumeroCuadrado = Numero * Numero ;
+
+
+    printf("el cuadrado del numero es :  %d\n",  NumeroCuadrado);
+
+    }
