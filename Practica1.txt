@@ -12,6 +12,6 @@ int main(){
        NumeroCuadrado = Numero * Numero ;
 
 
-    printf("el numro aleatorio es :  %d\n",  NumeroCuadrado);
+    printf("el cuadrado del numero es :  %d\n",  NumeroCuadrado);
 
     }
